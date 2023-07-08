@@ -1,5 +1,1 @@
-print('hello world\n')
-
-def f():
-    return 1
-
+print('hello world')
